@@ -1,0 +1,11 @@
+delta settings:
+	temporary directory: tmp0
+	granularity: line
+	input: <stdin>
+
+delta start                             0 sec/00:00:00	Fri Oct 18 03:29:22 2013
+000.c, lines: 13                        0 sec/00:00:00	Fri Oct 18 03:29:22 2013
+001.c, lines: 6                         0 sec/00:00:00	Fri Oct 18 03:29:22 2013
+002.c, lines: 3                         0 sec/00:00:00	Fri Oct 18 03:29:22 2013
+003.c, lines: 1                         0 sec/00:00:00	Fri Oct 18 03:29:22 2013
+delta done                              0 sec/00:00:00	Fri Oct 18 03:29:22 2013
