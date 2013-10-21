@@ -1,6 +1,0 @@
-#!/bin/sh
-# -*-sh-*-
-    if (/home/danluciani/homework3/mysort /home/danluciani/homework3/big_failing_test.txt 10); then
-        exit 0;                 # Success.
-    fi
-exit 1;                         # Failure.
