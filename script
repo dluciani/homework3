@@ -2,7 +2,7 @@
 # -*-sh-*-
 
 if (/home/danluciani/homework3/mysort /home/danluciani/homework3/big_failing_test.txt 10 | grep -q 'Error: timeout') then
-exit 1;
+exit 0;
 else
 exit 1;
 fi
